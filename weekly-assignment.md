@@ -10,7 +10,7 @@ Vaš posao nije da odmah odgovorite „da”, niti da tražite od Codex-a da pop
 
 Radite **samostalno u paru između petka i srede**, uz odobreni Codex i kursnu zajednicu. Cilj ostaje **3–4 sata zajedničkog rada**, ne nekoliko dana razvoja. U okvirna vremena koraka uračunajte i čitanje njihovih objašnjenja, ne dodatna četiri sata programiranja posle čitanja. Duži tekst služi da možete da razumete postupak bez stalne pomoći tutora. Ne traži se veliki izveštaj ili mnogo izmena koda.
 
-Minimum je jedna istražena promena sa kontrolisanim poređenjem i regresionom proverom. Predajete izmenjeni izvor, dodatni test, generisane dokaze pre/posle i [kratku belešku para](../evidence-template.md). U belešku unosite tumačenje, ne prepisujete automatske tabele.
+Minimum je jedna istražena promena sa kontrolisanim poređenjem i regresionom proverom. Predajete izmenjeni izvor, dodatni test, generisane dokaze pre/posle i [kratku belešku para](evidence.md). U belešku unosite tumačenje, ne prepisujete automatske tabele.
 
 ### Kako se ovo nadovezuje na prethodno čitanje?
 
@@ -336,7 +336,7 @@ Identičan korpus i način merenja omogućavaju da promenu povežete sa svojom k
 
 ## 8. Donesite preporuku, ne samo zbir prolaza
 
-**Okvirno vreme: 20 minuta.** Završavate istu [kratku belešku para](../evidence-template.md), ne pišete novu studiju. Posle detaljne istrage nekoliko preciznih rečenica treba da bude dovoljno da drugi inženjer razume tvrdnju i pronađe njenu osnovu.
+**Okvirno vreme: 20 minuta.** Završavate istu [kratku belešku para](evidence.md), ne pišete novu studiju. Posle detaljne istrage nekoliko preciznih rečenica treba da bude dovoljno da drugi inženjer razume tvrdnju i pronađe njenu osnovu.
 
 Počnite od **simulirane upotrebe koju procenjujete**. Da li govorite o proverenoj policy putanji ili o celom servisu, uključujući naloge? Tvrdnja „7/7 javnih provera je prošlo” opisuje konkretan skup. Ne znači „svi mogući zahtevi su bezbedni”.
 
