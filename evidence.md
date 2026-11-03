@@ -4,7 +4,7 @@
 
 ## Promena i hipoteza
 
-- Članovi para: Goran Suvačarev (driver) i Sara Trnjakov (observer). Ko ove nedelje vodi prikaz: **još nije određeno**.
+- Članovi para: Goran Suvačarev (driver) i Sara Trnjakov (observer). Ko ove nedelje vodi prikaz: **Sara Trnjakov**.
 - Polazni commit: `9846aacdc54dd5d7c1469b34de69ceee0ca71430`. Završni commit korekcije izvora: `2a08000eede4d99525d4c83f8e90533c8e38b7d1`. Izveštaji: `runs/evaluate-51aac007-9200-4ae8-891f-85d7ebaaed6d`, `runs/evaluate-5d32c619-8613-4f82-baeb-89d512f913cc`, `runs/regression-0cd8cbf0-7280-4d71-860c-48b19208f967` i `runs/regression-a7929334-2175-4dd4-8689-58521ec27074`.
 - Početni `refund` trag pokazuje izbor `refund-old` (revizija 1), poziv modela i odgovor `ok`. Podaci potvrđuju da je taj izvor arhiviran; odgovor je 30 dana i citat je `refund-old`, dok aktivni `refund-current` zahteva 14 dana. Hipoteza iz koda: izbor prvog dokumenta iste teme zanemaruje `state`.
 - Izmenjen je samo izbor izvora u policy grani `src/app.ts`: prihvata se aktivan dokument iste teme; bez takvog dokumenta sledi `refused` pre poziva modela. Nisu menjani javni podaci, account putanja, postojeći testovi, evaluator ni konfiguracija.
